@@ -47,7 +47,7 @@ MySQL  →  Power BI
 
 ### 1. MySQL (Database & Data Preparation)
 
-MySQL is used as the **relational database backend** for this project.
+MySQL was used as the **relational database backend** for this project.
 
 **MySQL is used for:**
 
@@ -66,13 +66,11 @@ MySQL is used as the **relational database backend** for this project.
 * Department-level and role-level summaries
 * Cost aggregation related to attrition
 
-> MySQL ensures data accuracy, scalability and consistency—key requirements in enterprise HR analytics.
-
 ---
 
 ### 2. Power BI (Visualization & Decision Support)
 
-Power BI is used to convert MySQL query outputs into **interactive, executive-ready dashboards**.
+Power BI was used to convert MySQL query outputs into **interactive, executive-ready dashboards**.
 
 **Power BI is used for:**
 
